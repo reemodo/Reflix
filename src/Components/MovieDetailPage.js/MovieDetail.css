@@ -1,0 +1,13 @@
+.descr{
+    color:white;
+    margin: 50px;
+    width: 50%;
+
+}
+span.movieYear{
+    float: right;
+}
+h1{
+    align-self: center;
+    text-align: center;
+}

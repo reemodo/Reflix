@@ -1,0 +1,29 @@
+.userList{
+    color: white;
+    list-style-type:none;
+    margin: 20px;
+    
+    
+}
+.user{
+    float: left;
+}
+.userContainer{
+    height: 100px;
+    width: 150px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  
+}
+.red{
+    color: white;
+    background-color: red;  
+    margin: 10px;
+
+}
+.white{
+    color: black;
+    background-color: white;
+    margin: 10px;
+}
